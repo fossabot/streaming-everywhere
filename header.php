@@ -5,7 +5,6 @@
       <meta charset="<?php bloginfo('charset'); ?>">
       <meta name=viewport content="width=device-width, initial-scale=1">
       <meta name=description content="<?php the_meta_description(); ?>">
-      <meta name=secret content="<! -- Content Here ->">
       <?php wp_head();?>
    </head>
    <body>
